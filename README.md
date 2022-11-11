@@ -43,6 +43,8 @@ $ docker-compose up
 - _execute o arquivo .sln_
 
 ![Captura de tela_20221111_201701](https://user-images.githubusercontent.com/26409244/201443197-98118051-5a1b-40e6-8f0c-1efdedcd5fe6.png)
+- _No Visual Studio, mude o contexto de docker-compose para WebAPI_
 
+https://user-images.githubusercontent.com/26409244/201445511-403ec4df-3f47-4d8a-a320-94dcdb6e85ac.mp4
 
 ***
