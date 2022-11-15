@@ -3,7 +3,7 @@
 # Portal TBForte - API Backend
 _Web API para gestão de solicitações de video, no processo de contagem dos malotes, na mesa de tesouraria_
 
-![](https://img.shields.io/static/v1?label=Nuget&message=v6.0.13&color=blue&style=<STYLE>&logo=<LOGO>) ![](https://img.shields.io/static/v1?label=.NET-Core&message=v6.0&color=purple&style=<STYLE>&logo=<LOGO>) ![](https://img.shields.io/static/v1?label=ASP.NET-Core&message=v6.0&color=purple&style=<STYLE>&logo=<LOGO>) ![](https://img.shields.io/static/v1?label=EF-Core&message=v6.0&color=blue&style=<STYLE>&logo=<LOGO>)
+![](https://img.shields.io/static/v1?label=Nuget&message=v6.0.13&color=blue&style=<STYLE>&logo=<LOGO>)
 
 ***
 ## Documentation
@@ -68,3 +68,11 @@ $ docker-compose up
 ![recording-2022-11-14-19-35-57](https://user-images.githubusercontent.com/26409244/201782658-d41c0ed8-7e07-48c6-b90e-2f6da7303d92.gif)
 
 ***
+## Tecnologias
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+- [.NET Core 6](https://learn.microsoft.com/pt-br/dotnet/)
+- [ASP.NET Core 6](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0)
+- [Entity Framework Core 6](https://learn.microsoft.com/pt-br/ef/core/)
+- [Microsoft Identity Web](https://learn.microsoft.com/pt-br/azure/active-directory/develop/microsoft-identity-web)
